@@ -35,6 +35,7 @@ public class SimpleJAVA {
                     }
                     else{
                         System.out.println("User type does not exists");
+                        System.out.print("Driver");
                     }
                     exists = true;
                 }
